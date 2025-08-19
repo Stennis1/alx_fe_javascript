@@ -102,6 +102,7 @@ function exportToJsonFile() {
     URL.revokeObjectURL(url);
 }
 
+// Function to export quotes
 function exportQuotes() {
 
 }
